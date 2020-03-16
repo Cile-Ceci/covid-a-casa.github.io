@@ -1,6 +1,6 @@
 ## A proposito di covid-at-home.info
 
-Questo sito è nato da un'iniziativa privata di Rop Gonggrijp e Vera Wilde che hanno fatto gran parte della ricerca e della scrittura iniziale. Molto presto, alcuni dei loro amici hanno iniziato ad aiutare correggendo le bozze, traducendo e fornendo utili correzioni e aggiunte. Diamoci da fare con questa guida. Una traduzione in tedesco è quasi terminata e altre traduzioni sono in fase di progettazione mentre scriviamo.
+Questo sito è nato da una iniziativa privata di Rop Gonggrijp e Vera Wilde che hanno fatto gran parte della ricerca e della scrittura iniziale. Molto presto alcuni dei loro amici hanno iniziato ad aiutare correggendo le bozze, traducendo e fornendo utili correzioni e aggiunte. Diamoci da fare con questa guida. Una traduzione in tedesco è quasi terminata e altre traduzioni sono in fase di progettazione mentre scriviamo. 
 
 L'obiettivo di covid-at-home è quello di condividere (in forma ancora un po' concisa) ciò che abbiamo imparato e di fornire informazioni pratiche e non assurde per affrontare la pandemia COVID-19 su una base aperta e non commerciale. L'ipotesi principale è che almeno in alcuni luoghi COVID-19 sommergerà temporaneamente il sistema sanitario, quindi più le persone si sentono sicure di avere a che fare con i malati a casa, meno persone si presenteranno inutilmente negli studi medici e negli ospedali. Allo stesso tempo, la gente ha ancora bisogno di sapere quando i pazienti hanno bisogno di cure mediche. 
 
